@@ -1,1 +1,3 @@
-# Quantum-Algorithm-Zoo-KR
+# Quantum Algorithm Zoo (Korean)
+
+## Repository Description
