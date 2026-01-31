@@ -1,6 +1,6 @@
-# Quantum Algorithm Zoo (Korean)
+# 양자 알고리즘 모음집 (한국어) / Quantum Algorithm Zoo (Korean)
 
-[Introduction](./README.md)
+[들어가며](./README.md)
 
 # Algebraic and Number Theoretic Algorithms
 
@@ -94,4 +94,4 @@
 
 * [Acknowledgements](./appendix/acknowledgements.md)
 * [References](./appendix/references.md)
-* [Glossaries](./appendix/glossaries.md)
+* [Glossary](./appendix/glossary.md)
