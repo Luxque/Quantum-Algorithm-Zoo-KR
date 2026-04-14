@@ -1,7 +1,13 @@
 [book]
 title = "양자 알고리즘 모음집 (한국어)"
-authors = ["Daniel Park"]
-language = "ko"
+authors = ["Stephen P. Jordan", "Daniel Park"]
+language = "kor"
+multilingual = false
+src = "source"
 
 [output.html]
-mathjax-support = true
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+
+[preprocessor.katex]
+after = ["links"]
