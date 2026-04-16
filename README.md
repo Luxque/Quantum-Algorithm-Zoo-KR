@@ -24,12 +24,21 @@ $O$, $\Omega$, $\Theta$, $\tilde{O}$, $\cdots$등과 같은 표기법은 [위키
 ## 기여하기
 
 만약 번역문에서 오류가 있거나 번역 제안이 있으시다면 이 프로젝트의 [이슈란](https://github.com/Luxque/Quantum-Algorithm-Zoo-KR/issues)에 문의를 남겨주십시오.
-확인 후 최대한 조속히 수정 및 조치를 하도록 하겠습니다.
+확인 후 최대한 조속히 수정 및 조치를 취하도록 하겠습니다.
+
+만약 이 리포지토리에 동봉되어 있는 `script` Python 코드를 사용하시려면 다음 명령어를 입력하여 가상환경을 생성하시고 필수 패키지를 설치하십시오.
+
+```bash
+python3 -m venv .venv
+source ./.venv/bin/activate
+pip install tabular
+```
+
 이 프로젝트를 위해 기여해주시는 모든 여러분께 감사드립니다.
 
 ## 출처
 
 * 원문서: [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 * 원저자: [Stephen P. Jordan](https://scholar.google.com/citations?user=dcSsY4cAAAAJ&hl=en)
-* 렌더링: [mdBook](https://github.com/rust-lang/mdBook)
-* 참고문헌: [참고문헌](/QAZKR/appendix/references.html)
+* 렌더링: [mdBook](https://github.com/rust-lang/mdBook), [mdBook-KaTeX](https://github.com/lzanini/mdbook-katex)
+* 참고문헌: [참고문헌](./appendix/references.html)
