@@ -1,5 +1,12 @@
-classical, 고전
-classical computer, 고전 컴퓨터
-general number field sieve, 일반 수체 체
-quantum, 양자
-quantum computer, 양자컴퓨터
+classical,고전
+classical computer,고전 컴퓨터
+cryptosystem,암호 방식
+general number field sieve,수체 체
+group,군
+membership problem,원소 판정 문제
+quantum,양자
+quantum computer,양자컴퓨터
+quantum Fourier transform,양자 푸리에 변환
+reduction,환산
+semiprime,반소수
+Shor's algorithm,쇼어 알고리즘

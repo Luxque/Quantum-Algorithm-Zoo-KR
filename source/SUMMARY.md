@@ -2,10 +2,10 @@
 
 [들어가며](./introduction.md)
 
-# Algebraic and Number Theoretic Algorithms
+# 대수 및 정수론 알고리즘
 
-* [Factoring](./algebraic/factoring.md)
-* [Discrete-Log](./algebraic/discrete-log.md)
+* [소인수분해](./algebraic/factoring.md)
+* [이산 로그](./algebraic/discrete-log.md)
 * [Pell's Equation](./algebraic/pells-equation.md)
 * [Principal Ideal](./algebraic/principal-ideal.md)
 * [Unit Group](./algebraic/unit-group.md)
