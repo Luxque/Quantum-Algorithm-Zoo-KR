@@ -1,8 +1,8 @@
 # 펠 방정식
 
-> * 영어 명칭: Pell's Equation
-> * 속도 향상: 초다항적
-> * 구현 코드: ∅
+> * **영어 명칭**: Pell's Equation
+> * **속도 향상**: 초다항적
+> * **구현 코드**: ∅
 
 제곱수가 아닌 양의 정수 $d$가 주어졌을 때, 펠(Pell)의 방정식은 $x^3-dy^2 = 1$이다.
 임의의 $d$에 대하여 이 식을 만족하는 순서쌍 $(x, y)$는 무한히 존재한다.
@@ -15,4 +15,4 @@
 고전 알고리즘 중에서 다항 시간 내로 찾을 수 있는 것은 알려지지 않았다.
 소인수분해는 이 문제로 환산된다.
 이 알고리즘은 북만-윌리엄스(Buchman-Williams) 암호 체계를 무력화시킨다.
-[아벨 숨은 부분군](QAZKR/oracular/abelian-hidden-subgroup.html)을 참고.
+[아벨 숨은 부분군](/QAZKR/oracular/abelian-hidden-subgroup.html)을 참고.
