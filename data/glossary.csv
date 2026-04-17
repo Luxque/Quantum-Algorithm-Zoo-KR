@@ -5,8 +5,9 @@ general number field sieve,수체 체
 group,군
 membership problem,원소 판정 문제
 quantum,양자
-quantum computer,양자컴퓨터
+quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
 reduction,환산
+semigroup,반군
 semiprime,반소수
 Shor's algorithm,쇼어 알고리즘
