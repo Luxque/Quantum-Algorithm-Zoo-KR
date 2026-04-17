@@ -10,9 +10,9 @@
 만약 $d$가 $n$비트 정수라면 (이를테면, $0 \leq d < 2^n$), 보통 $(x_1, y_1)$은 지수적으로 많은 비트가 필요하다.
 그러므로 일반적으로 $(x_1, y_1)$을 다항 시간 내로 찾는 것은 불가능하다.
 이제 $R = \log(x_1 + y\sqrt{d})$로 두자.
-그러면 $\lfloor R \rceil$는 $(x_1, y_1)$을 유일하게 특정한다.
+그러면 $\lfloor R \rceil$은 $(x_1, y_1)$을 유일하게 특정한다.
 홀그렌(Hallgren)이 보였듯이 [[43](/QAZKR/appendix/references.html#43)], $n$비트 정수 $d$가 주어졌을 때, 양자 컴퓨터는 $\lfloor R \rceil$을 $\operatorname{poly}(n)$ 시간 내로 찾을 수 있다.
-고전 알고리즘 중에서 다항 시간 내로 찾을 수 있을 것은 알려지지 않았다.
+고전 알고리즘 중에서 다항 시간 내로 찾을 수 있는 것은 알려지지 않았다.
 소인수분해는 이 문제로 환산된다.
 이 알고리즘은 북만-윌리엄스(Buchman-Williams) 암호 체계를 무력화시킨다.
 [아벨 숨은 부분군](QAZKR/oracular/abelian-hidden-subgroup.html)을 참고.
