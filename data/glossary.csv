@@ -1,13 +1,20 @@
 classical,고전
 classical computer,고전 컴퓨터
 cryptosystem,암호 방식
+DSA digital signature scheme,DSA 전자 서명 방식
+ECDSA digital signature scheme,ECDSA 전자 서명 방식
 general number field sieve,수체 체
 group,군
+Grover's algorithm,그로버 알고리즘
 membership problem,원소 판정 문제
+pair,순서쌍
+Pell's equation,펠 방정식
 quantum,양자
 quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
 reduction,환산
+RSA public-key encryption,RSA 공개 키 암호화
+searching,탐색
 semigroup,반군
 semiprime,반소수
 Shor's algorithm,쇼어 알고리즘
