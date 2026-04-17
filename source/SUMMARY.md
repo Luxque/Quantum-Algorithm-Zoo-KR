@@ -7,7 +7,7 @@
 * [소인수분해](./algebraic/factoring.md)
 * [이산 로그](./algebraic/discrete-log.md)
 * [펠 방정식](./algebraic/pells-equation.md)
-* [Principal Ideal](./algebraic/principal-ideal.md)
+* [주아이디얼](./algebraic/principal-ideal.md)
 * [Unit Group](./algebraic/unit-group.md)
 * [Class Group](./algebraic/class-group.md)
 * [Gauss Sums](./algebraic/gauss-sums.md)
