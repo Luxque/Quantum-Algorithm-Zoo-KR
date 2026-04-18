@@ -1,16 +1,24 @@
 classical,고전
 classical computer,고전 컴퓨터
 cryptosystem,암호 방식
+degree,차수
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
+element,원소
+fixed,고정된
 general number field sieve,수체 체
+generate,생성하다
+generator,생성자
 group,군
 Grover's algorithm,그로버 알고리즘
 ideal,아이디얼
 invertible,가역
+invertible element,가역원
 membership problem,원소 판정 문제
+monic polynomial, 최고차항의 계수가 1인 다항식
 pair,순서쌍
 Pell's equation,펠 방정식
+polynomial,다항식
 principal ideal,주아이디얼
 quantum,양자
 quantum computer,양자 컴퓨터
@@ -18,8 +26,12 @@ quantum Fourier transform,양자 푸리에 변환
 qubit,큐비트
 reduction,환산
 ring,환
+root,근
 RSA public-key encryption,RSA 공개 키 암호화
 searching,탐색
 semigroup,반군
 semiprime,반소수
+set,집합
+superpolynomial,초다항식
 Shor's algorithm,쇼어 알고리즘
+unit,가역원
