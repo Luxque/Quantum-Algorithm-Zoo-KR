@@ -1,11 +1,15 @@
+class group,유군
 classical,고전
 classical computer,고전 컴퓨터
 cryptosystem,암호 방식
 degree,차수
+Dedekind domain,데데킨트 정역
+domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
 element,원소
 fixed,고정된
+fractional idea,분수 아이디얼
 general number field sieve,수체 체
 generate,생성하다
 generator,생성자
