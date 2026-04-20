@@ -12,7 +12,7 @@
 * [유군](./algebraic/class-group.md)
 * [가우스 합](./algebraic/gauss-sums.md)
 * [소수 판정](./algebraic/primality-proving.md)
-* [Solving Exponential Congruences](./algebraic/solving-exponential-congruences.md)
+* [지수 합동식](./algebraic/solving-exponential-congruences.md)
 * [Matrix Elements and Multiplicity Coefficients of Group Representations](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
 * [Verifying Matrix Products](./algebraic/verifying-matrix-products.md)
 * [Subset-Sum](./algebraic/subset-sum.md)

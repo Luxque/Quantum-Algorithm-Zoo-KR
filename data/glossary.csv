@@ -11,6 +11,7 @@ domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
 element,원소
+exponential congruence,지수 합동식
 finite field,유한체
 finite ring,유한환
 fixed,고정된
