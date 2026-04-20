@@ -2,7 +2,7 @@
 
 [들어가며](./introduction.md)
 
-# 대수 및 정수론 알고리즘
+# 대수적 및 정수론 알고리즘
 
 * [소인수분해](./algebraic/factoring.md)
 * [이산 로그](./algebraic/discrete-log.md)
@@ -11,7 +11,7 @@
 * [가역원군](./algebraic/unit-group.md)
 * [유군](./algebraic/class-group.md)
 * [가우스 합](./algebraic/gauss-sums.md)
-* [Primality Proving](./algebraic/primality-proving.md)
+* [소수 판정](./algebraic/primality-proving.md)
 * [Solving Exponential Congruences](./algebraic/solving-exponential-congruences.md)
 * [Matrix Elements and Multiplicity Coefficients of Group Representations](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
 * [Verifying Matrix Products](./algebraic/verifying-matrix-products.md)
