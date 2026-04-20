@@ -1,6 +1,9 @@
+Abelian group,아벨 군
+additive group,덧셈군
 class group,유군
 classical,고전
 classical computer,고전 컴퓨터
+character,지표
 cryptosystem,암호 방식
 degree,차수
 Dedekind domain,데데킨트 정역
@@ -8,6 +11,8 @@ domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
 element,원소
+finite field,유한체
+finite ring,유한환
 fixed,고정된
 fractional idea,분수 아이디얼
 general number field sieve,수체 체
@@ -16,19 +21,26 @@ generator,생성자
 group,군
 Grover's algorithm,그로버 알고리즘
 ideal,아이디얼
+infinite field,무한체
+inner product,내적
 invertible,가역
 invertible element,가역원
 membership problem,원소 판정 문제
 monic polynomial, 최고차항의 계수가 1인 다항식
+multiplicative group,곱셈군
+outer product,외적
 pair,순서쌍
+partition function,분배 함수
 Pell's equation,펠 방정식
 polynomial,다항식
+Potts model,포츠 모형
 principal ideal,주아이디얼
 quantum,양자
 quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
 qubit,큐비트
 reduction,환산
+representation,표현
 ring,환
 root,근
 RSA public-key encryption,RSA 공개 키 암호화

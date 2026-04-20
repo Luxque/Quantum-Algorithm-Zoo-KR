@@ -10,7 +10,7 @@
 * [주아이디얼](./algebraic/principal-ideal.md)
 * [가역원군](./algebraic/unit-group.md)
 * [유군](./algebraic/class-group.md)
-* [Gauss Sums](./algebraic/gauss-sums.md)
+* [가우스 합](./algebraic/gauss-sums.md)
 * [Primality Proving](./algebraic/primality-proving.md)
 * [Solving Exponential Congruences](./algebraic/solving-exponential-congruences.md)
 * [Matrix Elements and Multiplicity Coefficients of Group Representations](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
