@@ -13,7 +13,7 @@
 * [가우스 합](./algebraic/gauss-sums.md)
 * [소수 판정](./algebraic/primality-proving.md)
 * [지수 합동식](./algebraic/solving-exponential-congruences.md)
-* [Matrix Elements and Multiplicity Coefficients of Group Representations](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
+* [군 표현의 행렬 원소와 중복도 계수](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
 * [Verifying Matrix Products](./algebraic/verifying-matrix-products.md)
 * [Subset-Sum](./algebraic/subset-sum.md)
 * [Decoding](./algebraic/decoding.md)
