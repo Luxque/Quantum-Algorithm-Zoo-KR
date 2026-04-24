@@ -1,1 +1,7 @@
+# Python virtual environment.
+
+.venv
+
+# Generated book files.
+
 book
