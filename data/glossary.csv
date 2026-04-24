@@ -1,13 +1,17 @@
 Abelian group,아벨 군
 additive group,덧셈군
 basis,기저
+bit flip,비트 플립
 class group,유군
 classical,고전
 classical computer,고전 컴퓨터
+code,부호
 compact,콤팩트
 conjugate,켤레
+convolutional code,합성곱 부호
 character,지표
 cryptosystem,암호 방식
+decoding,복호화
 degree,차수
 Dedekind domain,데데킨트 정역
 direct sum,직합
@@ -15,6 +19,9 @@ domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
 element,원소
+encoding,부호화
+error correction,오류 정정
+error detection,오류 검출
 exponential congruence,지수 합동식
 finite field,유한체
 finite ring,유한환
@@ -35,6 +42,7 @@ invertible element,가역원
 irreducible,기약
 irreducible representation,기약표현
 Kronecker coefficient,크로네커 계수
+maximum likelihood method,최대가능도법
 membership problem,원소 판정 문제
 monic polynomial, 최고차항의 계수가 1인 다항식
 multiplicative group,곱셈군
@@ -62,9 +70,10 @@ searching,탐색
 semigroup,반군
 semiprime,반소수
 set,집합
+Shor's algorithm,쇼어 알고리즘
+simplex code,단체 코드
 subset-sum,부분집합 합
 superpolynomial,초다항식
-Shor's algorithm,쇼어 알고리즘
 symmetric group,대칭군
 tensor product,텐서곱
 unit,가역원
