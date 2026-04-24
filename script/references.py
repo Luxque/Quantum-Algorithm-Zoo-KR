@@ -20,13 +20,12 @@ def write_lines(filename: str, lines: list[str]) -> None:
 
 
 def main() -> None:
-    if len(sys.argv) < 2:
-        raise RuntimeError("There must be at least one argument for the file to edit.")
+    if len(sys.argv) != 2:
+        raise RuntimeError("There must be one argument for the file to read.")
 
-    filenames = sys.argv[1:]
-    for filename in filenames:
-        lines = read_lines(filename)
-        write_lines(filename, lines)
+    filename = sys.argv[1]
+    lines = read_lines(filename)
+    write_lines(filename, lines)
 
     return
 
