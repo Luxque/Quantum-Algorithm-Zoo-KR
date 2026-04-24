@@ -10,7 +10,7 @@ compact,콤팩트
 conjugate,켤레
 convolutional code,합성곱 부호
 character,지표
-cryptosystem,암호 방식
+cryptosystem,암호 체계
 decoding,복호화
 degree,차수
 Dedekind domain,데데킨트 정역
@@ -41,7 +41,9 @@ invertible,가역
 invertible element,가역원
 irreducible,기약
 irreducible representation,기약표현
+isogeny,동류사상
 Kronecker coefficient,크로네커 계수
+lattice problem,격자문제
 maximum likelihood method,최대가능도법
 membership problem,원소 판정 문제
 monic polynomial, 최고차항의 계수가 1인 다항식
@@ -53,25 +55,29 @@ pair,순서쌍
 partition function,분배 함수
 Pell's equation,펠 방정식
 polynomial,다항식
+post-quantum cryptography,양자 후 암호
 Potts model,포츠 모형
 principal ideal,주아이디얼
 quantum,양자
+quantum collision finding,양자 중복 감지
 quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
 quanrum (random) walk,양자 확률보행
+query,쿼리
 qubit,큐비트
 reduction,환산
 regular representation,정칙표현
 representation,표현
 ring,환
 root,근
-RSA public-key encryption,RSA 공개 키 암호화
+RSA public-key encryption,RSA 공개키 암호화
 searching,탐색
 semigroup,반군
 semiprime,반소수
 set,집합
 Shor's algorithm,쇼어 알고리즘
 simplex code,단체 코드
+subexponential,준지수
 subset-sum,부분집합 합
 superpolynomial,초다항식
 symmetric group,대칭군

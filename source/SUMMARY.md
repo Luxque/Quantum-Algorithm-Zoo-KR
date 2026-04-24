@@ -17,7 +17,7 @@
 * [행렬곱 검산](./algebraic/verifying-matrix-products.md)
 * [부분집합 합](./algebraic/subset-sum.md)
 * [복호화](./algebraic/decoding.md)
-* [Quantum Cryptanalysis](./algebraic/quantum-cryptanalysis.md)
+* [양자 암호 해독](./algebraic/quantum-cryptanalysis.md)
 
 # Oracular Algorithms
 
