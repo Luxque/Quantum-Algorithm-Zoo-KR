@@ -1,4 +1,4 @@
-# 행렬 곱 검산
+# 행렬곱 검산
 
 > * **영어 명칭**: Verifying Matrix Products
 > * **속도 향상**: 다항적
