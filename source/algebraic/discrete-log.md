@@ -4,7 +4,7 @@
 > * **속도 향상**: 초다항적
 > * **구현 코드**: [Classiq](https://short.classiq.io/discrete_log), [Qrisp](https://github.com/diehoq/quantum-elliptic-curve-logarithm)
 
-임의의 $s$에 대하여 $b = a^s \mod N$를 만족하는 $n$비트 정수 $a$, $b$, $N$이 주어져 있다고 하자.
+임의의 $s$에 대하여 $b = a^s \mod N$을 만족하는 $n$비트 정수 $a$, $b$, $N$이 주어져 있다고 하자.
 이 알고리즘은 $s$를 찾는다.
 쇼어(Shor)가 보였듯이 [[82](/QAZKR/appendix/references.html#82)], 이는 양자 컴퓨터에서 $\operatorname{poly}(n)$ 시간에 찾을 수 있다.
 알려진 가장 빠른 고전 알고리즘은 $n$에 대해 초다항 시간이 걸린다.
