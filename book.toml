@@ -2,12 +2,13 @@
 title = "양자 알고리즘 모음집 (한국어)"
 authors = ["Stephen P. Jordan", "Daniel Park"]
 language = "kor"
-multilingual = false
+multilingual = true
 src = "source"
 
 [output.html]
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
+additional-css = ["custom.css"]
 
 [preprocessor.katex]
 after = ["links"]
