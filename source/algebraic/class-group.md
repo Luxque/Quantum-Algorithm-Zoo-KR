@@ -9,5 +9,5 @@ $\mathbb{Z}[x]$ 상에서 최고차항의 계수가 1인 다항식의 근인 $\m
 데데킨트 정역 상에서 $0$이 아닌 주아이디얼을 법으로 하는 $0$이 아닌 분수 아이디얼은 유군을 이룬다.
 홀그렌(Hallgren)이 보인 바와 같이 [[50](/QAZKR/appendix/references.html#50)], 고정된 차수의 수체에 대하여, 양자 컴퓨터는 주어진 $\theta$를 토대로 정수환 유군의 생산자를 $\operatorname{poly}(\log(|\mathcal{O}|))$ 시간에 찾을 수 있다.
 차수 $d$에 따라 다항 시간에 이 문제를 해결하는 향상된 양자 알고리즘도 발견되었다 [[329](/QAZKR/appendix/references.html#329)].
-이를 다항 시간에 수행하는 고전 알고리즘은 알려지지 않았다.
+이를 다항 시간에 해결하는 고전 알고리즘은 알려지지 않았다.
 [아벨 숨은 부분군](/QAZKR/oracular/abelian-hidden-subgroup.html)을 참고.

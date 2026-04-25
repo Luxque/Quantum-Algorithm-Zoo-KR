@@ -6,7 +6,7 @@
 
 유한군의 모든 표현과 콤팩트 선형군은 적절한 기저가 주어져 있을 때 유니터리행렬로 쓸 수 있다.
 군 상에서 양자 푸리에(Fourier) 변환을 통해 정칙표현의 켤레를 구하면 그 군의 기약표현 직합이 나온다.
-그러므로, 아다마르(Hadamard) 테스트를 동반한 대칭군 상에서의 효율적인 양자 푸리에 변환은 [[196](/QAZKR/appendix/references.html#196)] $S_n$의 임의 기약표현의 행렬 원소를 각각 가법적으로 근사하는 빠른 양자 알고리즘을 산출한다.
+그러므로 아다마르(Hadamard) 테스트를 동반한 대칭군 상에서의 효율적인 양자 푸리에 변환은 [[196](/QAZKR/appendix/references.html#196)] $S_n$의 임의 기약표현의 행렬 원소를 각각 가법적으로 근사하는 빠른 양자 알고리즘을 산출한다.
 이와 비슷하게 양자 슈어(Schur) 변환을 이용하면 [[197](/QAZKR/appendix/references.html#197)] $\operatorname{SU}(n)$의 기약표현 행렬 원소를 효율적으로 근사할 수 있다.
 효율적인 양자 알고리즘을 통한 군 $\operatorname{U}(n)$, $\operatorname{SU}(n)$, $\operatorname{SO}(n)$, $A_n$ 상 개별표현의 구현은 [[106](/QAZKR/appendix/references.html#106)]에 설명되어 있다.
 알려진 고전 알고리즘으로 해결하기 지수적으로 어려운 예시들도 [[106](/QAZKR/appendix/references.html#106)]에 설명되어 있다.
