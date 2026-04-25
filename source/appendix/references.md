@@ -1,4 +1,4 @@
-# References
+# 참고문헌
 
 #### 1
 Daniel S. Abrams and Seth Lloyd

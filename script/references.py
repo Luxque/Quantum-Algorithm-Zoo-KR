@@ -10,8 +10,8 @@ def read_lines(filename: str) -> list[str]:
 
 def write_lines(filename: str, lines: list[str]) -> None:
     with open(filename, 'w') as file:
+        file.write("# 참고문헌\n\n")
         for line in lines:
-            print(line)
             if line.isdigit():
                 file.write("#### ")
             file.write(f"{line}\n")
