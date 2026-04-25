@@ -2,6 +2,8 @@
 
 [들어가며](./introduction.md)
 
+---
+
 # 대수적 및 정수론 알고리즘
 
 * [소인수분해](./algebraic/factoring.md)
@@ -90,8 +92,8 @@
 
 ---
 
-# Appendix
+# 부록
 
-* [Acknowledgements](./appendix/acknowledgements.md)
-* [References](./appendix/references.md)
-* [Glossary](./appendix/glossary.md)
+* [감사 인사](./appendix/acknowledgements.md)
+* [참고문헌](./appendix/references.md)
+* [용어](./appendix/glossary.md)
