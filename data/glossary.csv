@@ -12,8 +12,8 @@ convolutional code,합성곱 부호
 character,지표
 cryptosystem,암호 체계
 decoding,복호화
-degree,차수
 Dedekind domain,데데킨트 정역
+degree,차수
 direct sum,직합
 domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
@@ -46,7 +46,7 @@ Kronecker coefficient,크로네커 계수
 lattice problem,격자문제
 maximum likelihood method,최대가능도법
 membership problem,원소 판정 문제
-monic polynomial, 최고차항의 계수가 1인 다항식
+monic polynomial,최고차항의 계수가 1인 다항식
 multiplicative group,곱셈군
 multiplicity,중복도
 normalize,정규화
