@@ -21,9 +21,9 @@
 * [복호화](./algebraic/decoding.md)
 * [양자 암호 해독](./algebraic/quantum-cryptanalysis.md)
 
-# Oracular Algorithms
+# 오라클 알고리즘
 
-* [Searching](./oracular/searching.md)
+* [탐색](./oracular/searching.md)
 * [Abelian Hidden Subgroup](./oracular/abelian-hidden-subgroup.md)
 * [Non-Abelian Hidden Subgroup](./oracular/non-abelian-hidden-subgroup.md)
 * [Bernstein-Vazirani](./oracular/bernstein-vazirani.md)

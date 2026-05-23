@@ -1,4 +1,4 @@
-# Quantum Algorithm Zoo (Korean)
+# Quantum Algorithm Zoo -- Korean
 
 ## 프로젝트 설명
 
