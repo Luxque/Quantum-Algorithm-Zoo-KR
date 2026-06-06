@@ -60,7 +60,7 @@
 * [Simulating Quantum Hamiltonian Dynamics](./approximation/simulating-quantum-hamiltonian-dynamics.md)
 * [Preparing Eigenstates and Thermal States](./approximation/preparing-eigenstates-and-thermal-states.md)
 * [Knot Invariants](./approximation/knot-invariants.md)
-* [Three-manifold Invariants](./approximation/three-manifold-invariants.md)
+* [Three-Manifold Invariants](./approximation/three-manifold-invariants.md)
 * [Partition Functions](./approximation/partition-functions.md)
 * [Zeta Functions](./approximation/zeta-functions.md)
 * [Weight Enumerators](./approximation/weight-enumerators.md)
@@ -84,11 +84,11 @@
 * [Tensor Principal Component Analysis](./optimization/tensor-principal-component-analysis.md)
 * [Solving Linear Differential Equations](./optimization/solving-linear-differential-equations.md)
 * [Solving Nonlinear Differential Equations](./optimization/solving-nonlinear-differential-equations.md)
-* [Quantum Dynamic Programming for path-in-the-hypercube](./optimization/quantum-dynamic-programming-for-path-in-the-hypercube.md)
+* [Quantum Dynamic Programming for Path-in-the-Hypercube](./optimization/quantum-dynamic-programming-for-path-in-the-hypercube.md)
 * [Computing the Principal Eigenvector](./optimization/computing-the-principal-eigenvector.md)
 * [Approximating Nash Equilibria](./optimization/approximating-nash-equilibria.md)
 * [Lattice Problems by Filtering](./optimization/lattice-problems-by-filtering.md)
-* [Double-bracket quantum algorithms](./optimization/double-bracket-quantum-algorithms.md)
+* [Double-Bracket Quantum Algorithms](./optimization/double-bracket-quantum-algorithms.md)
 
 ---
 
