@@ -1,5 +1,6 @@
 Abelian group,아벨 군
 additive group,덧셈군
+approximation,근사
 basis,기저
 bit flip,비트 플립
 class group,유군
@@ -13,6 +14,7 @@ character,지표
 cryptosystem,암호 체계
 decoding,복호화
 Dedekind domain,데데킨트 정역
+definite integral,정적분
 degree,차수
 direct sum,직합
 domain,정역
@@ -22,6 +24,7 @@ element,원소
 encoding,부호화
 error correction,오류 정정
 error detection,오류 검출
+estimatation,추정
 exponential congruence,지수 합동식
 finite field,유한체
 finite ring,유한환
@@ -35,6 +38,7 @@ Grover's algorithm,그로버 알고리즘
 Hadamard test,아다마르 테스트
 heuristic,휴리스틱
 ideal,아이디얼
+indefinite integral,부정적분
 infinite field,무한체
 inner product,내적
 invertible,가역
@@ -45,11 +49,14 @@ isogeny,동류사상
 Kronecker coefficient,크로네커 계수
 lattice problem,격자문제
 maximum likelihood method,최대가능도법
+mean,평균
+median,중앙값
 membership problem,원소 판정 문제
 monic polynomial,최고차항의 계수가 1인 다항식
 multiplicative group,곱셈군
 multiplicity,중복도
 normalize,정규화
+global minimum,전역 최솟값
 outer product,외적
 oracle,오라클
 pair,순서쌍
@@ -58,7 +65,9 @@ Pell's equation,펠 방정식
 polynomial,다항식
 post-quantum cryptography,양자 후 암호
 Potts model,포츠 모형
+primitive,초기
 principal ideal,주아이디얼
+prior distribution,사전분포
 quantum,양자
 quantum collision finding,양자 중복 감지
 quantum computer,양자 컴퓨터
@@ -78,12 +87,15 @@ semiprime,반소수
 set,집합
 Shor's algorithm,쇼어 알고리즘
 simplex code,단체 코드
+speedup,속도 향상
 subexponential,준지수
 subset-sum,부분집합 합
 superpolynomial,초다항식
 symmetric group,대칭군
 tensor product,텐서곱
-unit,가역원
+uniform,균등
+unit,단위
+unit group,가역원
 unitary,유니터리
 unitary matrix,유니터리행렬
 weight,가중값
