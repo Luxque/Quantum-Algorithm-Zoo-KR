@@ -17,7 +17,7 @@
 * [지수 합동식](./algebraic/solving-exponential-congruences.md)
 * [군 표현의 행렬 원소와 중복도 계수](./algebraic/matrix-elements-and-multiplicity-coefficients-group-representations.md)
 * [행렬곱 검산](./algebraic/verifying-matrix-products.md)
-* [부분집합 합](./algebraic/subset-sum.md)
+* [부분집합의 합](./algebraic/subset-sum.md)
 * [복호화](./algebraic/decoding.md)
 * [양자 암호 해독](./algebraic/quantum-cryptanalysis.md)
 
