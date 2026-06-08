@@ -24,7 +24,7 @@
 # 오라클 알고리즘
 
 * [탐색](./oracular/searching.md)
-* [Abelian Hidden Subgroup](./oracular/abelian-hidden-subgroup.md)
+* [아벨 숨은 부분군](./oracular/abelian-hidden-subgroup.md)
 * [Non-Abelian Hidden Subgroup](./oracular/non-abelian-hidden-subgroup.md)
 * [Bernstein-Vazirani](./oracular/bernstein-vazirani.md)
 * [Deutsch-Jozsa](./oracular/deutsch-jozsa.md)

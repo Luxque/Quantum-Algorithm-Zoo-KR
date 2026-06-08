@@ -10,6 +10,7 @@ code,부호
 compact,콤팩트
 conjugate,켤레
 convolutional code,합성곱 부호
+coset,잉여류
 character,지표
 cryptosystem,암호 체계
 decoding,복호화
@@ -48,14 +49,18 @@ irreducible representation,기약표현
 isogeny,동류사상
 Kronecker coefficient,크로네커 계수
 lattice problem,격자문제
+least significant bit,최하위 비트
+left coset,좌잉여류
 maximum likelihood method,최대가능도법
 mean,평균
 median,중앙값
 membership problem,원소 판정 문제
 monic polynomial,최고차항의 계수가 1인 다항식
+most significant bit,최상위 비트
 multiplicative group,곱셈군
 multiplicity,중복도
 normalize,정규화
+global maximum,전역 최댓값
 global minimum,전역 최솟값
 outer product,외적
 oracle,오라클
@@ -78,6 +83,7 @@ qubit,큐비트
 reduction,환산
 regular representation,정칙표현
 representation,표현
+right coset,우잉여류
 ring,환
 root,근
 RSA public-key encryption,RSA 공개키 암호화
