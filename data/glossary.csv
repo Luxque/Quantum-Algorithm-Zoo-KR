@@ -28,6 +28,8 @@ error correction,오류 정정
 error detection,오류 검출
 estimatation,추정
 exponential congruence,지수 합동식
+fanin,팬 인
+fanout,팬 아웃
 finite field,유한체
 finite ring,유한환
 fixed,고정된
@@ -103,6 +105,7 @@ subset-sum,부분집합 합
 superpolynomial,초다항식
 symmetric group,대칭군
 tensor product,텐서곱
+topology,위상
 uniform,균등
 unit,단위
 unit group,가역원
