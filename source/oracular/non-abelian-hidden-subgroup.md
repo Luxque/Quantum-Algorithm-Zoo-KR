@@ -1,1 +1,10 @@
-# Non-Abelian Hidden Subgroup
+# 비아벨 숨은 부분군
+
+> * **영어 명칭**: Non-Abelian Hidden Subgroup
+> * **속도 향상**: 초다항적
+> * **구현 코드**: ∅
+
+$G$는 유한하게 생성된 군, $H$는 유한한 좌잉여류를 가지는 $G$의 부분군이라고 하자.
+그리고 $f$를 $g_1, g_2 \in G$에 대해 $f(g_1) = f(g_2)$임과 $g_1$과 $g_2$가 $H$의 좌잉여류에 속하는 것이 동치로 하는 $G$에 대한 함수라고 하자.
+이 알고리즘의 목표는 $f$의 쿼리를 만들어 $H$(즉, $H$ 생성자의 집합)를 찾는 것이다.
+고전적으로는 $\Omega(|G|)$ 쿼리가 필요하지만, 양자 컴퓨터는 $O(\log|G|)$ 쿼리만으로도 해결할 수 있다 [[37](/QAZKR/appendix/references.html#37), [51](/QAZKR/appendix/references.html#51)].
