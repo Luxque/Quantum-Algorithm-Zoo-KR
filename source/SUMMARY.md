@@ -26,7 +26,7 @@
 * [탐색](./oracular/searching.md)
 * [아벨 숨은 부분군](./oracular/abelian-hidden-subgroup.md)
 * [비아멜 숨은 부분군](./oracular/non-abelian-hidden-subgroup.md)
-* [Bernstein-Vazirani](./oracular/bernstein-vazirani.md)
+* [번스타인-바지라니](./oracular/bernstein-vazirani.md)
 * [Deutsch-Jozsa](./oracular/deutsch-jozsa.md)
 * [Formula Evaluation](./oracular/formula-evaluation.md)
 * [Hidden Shift](./oracular/hidden-shift.md)
