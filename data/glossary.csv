@@ -17,6 +17,7 @@ decoding,복호화
 Dedekind domain,데데킨트 정역
 definite integral,정적분
 degree,차수
+dihedral group,이면체군
 direct sum,직합
 domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
@@ -47,6 +48,7 @@ invertible element,가역원
 irreducible,기약
 irreducible representation,기약표현
 isogeny,동류사상
+isomorphism,동형사상
 Kronecker coefficient,크로네커 계수
 lattice problem,격자문제
 least significant bit,최하위 비트
@@ -67,6 +69,7 @@ oracle,오라클
 pair,순서쌍
 partition function,분배 함수
 Pell's equation,펠 방정식
+permutation,순열
 polynomial,다항식
 post-quantum cryptography,양자 후 암호
 Potts model,포츠 모형
