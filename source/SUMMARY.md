@@ -27,7 +27,7 @@
 * [아벨 숨은 부분군](./oracular/abelian-hidden-subgroup.md)
 * [비아멜 숨은 부분군](./oracular/non-abelian-hidden-subgroup.md)
 * [번스타인-바지라니](./oracular/bernstein-vazirani.md)
-* [Deutsch-Jozsa](./oracular/deutsch-jozsa.md)
+* [도이치-조사](./oracular/deutsch-jozsa.md)
 * [Formula Evaluation](./oracular/formula-evaluation.md)
 * [Hidden Shift](./oracular/hidden-shift.md)
 * [Polynomial Interpolation](./oracular/polynomial-interpolation.md)
