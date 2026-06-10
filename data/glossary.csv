@@ -28,11 +28,12 @@ error correction,오류 정정
 error detection,오류 검출
 estimatation,추정
 exponential congruence,지수 합동식
-fanin,팬 인
-fanout,팬 아웃
+fanin,팬인
+fanout,팬아웃
 finite field,유한체
 finite ring,유한환
 fixed,고정된
+formalism,형식론
 fractional idea,분수 아이디얼
 general number field sieve,수체 체
 generate,생성하다
@@ -83,7 +84,7 @@ quantum collision finding,양자 중복 감지
 quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
 quanrum (random) walk,양자 확률보행
-query,쿼리
+query,질의
 qubit,큐비트
 reduction,환산
 regular representation,정칙표현

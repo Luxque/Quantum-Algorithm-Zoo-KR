@@ -14,6 +14,6 @@
 다변수 암호 체계에 대해 고전 공격 방식 대비하여 확실한 강점이 알려지지 않은 양자 공격 방식은 [[539](/QAZKR/appendix/references.html#539), [540](/QAZKR/appendix/references.html#540), [541](/QAZKR/appendix/references.html#541)]에 제시되어 있다.
 두 번째 유형은 그로버(Grover) 탐색 알고리즘 및 양자 중복 감지(quantum collision finding) 등을 활용해 고전 알고리즘 구성 요소의 속도를 향상해 고전 공격 방식 대비 다항적 속도 향상을 달성하는 것이다.
 이러한 공개키와[[284](/QAZKR/appendix/references.html#284), [285](/QAZKR/appendix/references.html#285), [288](/QAZKR/appendix/references.html#288), [315](/QAZKR/appendix/references.html#315), [316](/QAZKR/appendix/references.html#316)]과 비공개키[[262](/QAZKR/appendix/references.html#262), [287](/QAZKR/appendix/references.html#287), [536](/QAZKR/appendix/references.html#536)]기본 요소에 대한 공격은 관련 암호 체계의 사용을 배제하지 않지만, 키 크기의 선택에는 영향을 줄 수 있다.
-세 번째 유형은 양자 중첩 쿼리를 통한 암호 방지 공격이다.
+세 번째 유형은 양자 중첩 질의를 통한 암호 방지 공격이다.
 이러한 공격은 많은 경우 암호 기본 요소들을 완전히 무력화한다 [[290](/QAZKR/appendix/references.html#290), [291](/QAZKR/appendix/references.html#291), [292](/QAZKR/appendix/references.html#292)].
-하지만 실질적으로 이러한 중첩 쿼리는 실현될 수 없다.
+하지만 실질적으로 이러한 중첩 질의는 실현될 수 없다.

@@ -67,7 +67,7 @@
 | quantum computer               | 양자 컴퓨터           |
 | quantum Fourier transform      | 양자 푸리에 변환        |
 | quanrum (random) walk          | 양자 확률보행          |
-| query                          | 쿼리               |
+| query                          | 질의               |
 | qubit                          | 큐비트              |
 | reduction                      | 환산               |
 | regular representation         | 정칙표현             |

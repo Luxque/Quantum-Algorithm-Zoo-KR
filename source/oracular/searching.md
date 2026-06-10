@@ -7,8 +7,8 @@
 $N$개의 입력값을 받을 수 있는 오라클(oracle)이 주어져 있다고 하자.
 그중에서 단 하나의 입력값 $w$만이 $1$을 출력하고 그 외의 입력값은 $0$을 출력한다.
 이 알고리즘의 목표는 $w$(승자를 의미하는 'winner'의 머릿글자를 따옴)를 찾는 것이다.
-일반 컴퓨터에서는 $\Omega(N)$의 쿼리가 필요하다.
-로브 그로버(Lov Grover)가 제시한 양자 알고리즘은 $O(\sqrt{N})$ 쿼리로 $w$를 찾을 수 있고 [[48](/QAZKR/appendix/references.html#48)], 이는 최선의 알고리즘이다 [[216](/QAZKR/appendix/references.html#216)].
+일반 컴퓨터에서는 $\Omega(N)$의 질의가 필요하다.
+로브 그로버(Lov Grover)가 제시한 양자 알고리즘은 $O(\sqrt{N})$ 질의로 $w$를 찾을 수 있고 [[48](/QAZKR/appendix/references.html#48)], 이는 최선의 알고리즘이다 [[216](/QAZKR/appendix/references.html#216)].
 이 알고리즘은: 
 
 * 여러 개의 $w$ 찾기 [[15](/QAZKR/appendix/references.html#15)]
@@ -29,5 +29,5 @@ $N$개의 입력값을 받을 수 있는 오라클(oracle)이 주어져 있다�
 다른 제약조건의 만족 문제에 대한 2차적 속도 향상도 [[134](/QAZKR/appendix/references.html#134)]에 제시되어 있다.
 (진폭 증폭을 통해 무차별 대입에 비해 약간의 2차적 속도 향상을 얻는 것은 [[493](/QAZKR/appendix/references.html#493), [492](492)]에 제시되어 있다.)
 그로버 탐색과 진폭 증폭의 더 많은 예시는 [[261](/QAZKR/appendix/references.html#261), [262](/QAZKR/appendix/references.html#262)]을 참조.
-그로버 탐색과 깊게 연관되어 있으면서도 더 어려운 문제는 공간 탐색으로, 데이터베이스 쿼리가 일부 그래프 구조에 의해 한정되어 있다.
-충분히 잘 연결된 그래프는 $O(\sqrt{n})$의 양자 쿼리 복잡도를 지니는 것이 가능하다 [[274](/QAZKR/appendix/references.html#274), [275](/QAZKR/appendix/references.html#275), [303](/QAZKR/appendix/references.html#303), [304](/QAZKR/appendix/references.html#304), [305](/QAZKR/appendix/references.html#305), [306](/QAZKR/appendix/references.html#306), [330](/QAZKR/appendix/references.html#330)].
+그로버 탐색과 깊게 연관되어 있으면서도 더 어려운 문제는 공간 탐색으로, 데이터베이스 질의가 일부 그래프 구조에 의해 한정되어 있다.
+충분히 잘 연결된 그래프는 $O(\sqrt{n})$의 양자 질의 복잡도를 지니는 것이 가능하다 [[274](/QAZKR/appendix/references.html#274), [275](/QAZKR/appendix/references.html#275), [303](/QAZKR/appendix/references.html#303), [304](/QAZKR/appendix/references.html#304), [305](/QAZKR/appendix/references.html#305), [306](/QAZKR/appendix/references.html#306), [330](/QAZKR/appendix/references.html#330)].
