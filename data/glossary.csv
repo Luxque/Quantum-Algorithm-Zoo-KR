@@ -30,6 +30,7 @@ error correction,오류 정정
 error detection,오류 검출
 estimatation,추정
 exponential congruence,지수 합동식
+factor,인자
 fanin,팬인
 fanout,팬아웃
 finite field,유한체
@@ -72,6 +73,7 @@ noise,소음
 normalize,정규화
 global maximum,전역 최댓값
 global minimum,전역 최솟값
+occurrence,빈도
 outer product,외적
 oracle,오라클
 pair,순서쌍
@@ -107,6 +109,7 @@ shift,이동
 Shor's algorithm,쇼어 알고리즘
 simplex code,단체 코드
 speedup,속도 향상
+string,문자열
 subexponential,준지수
 subset-sum,부분집합 합
 superpolynomial,초다항식
