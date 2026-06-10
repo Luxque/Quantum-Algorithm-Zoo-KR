@@ -30,7 +30,7 @@
 * [도이치-조사](./oracular/deutsch-jozsa.md)
 * [논리식 평가](./oracular/formula-evaluation.md)
 * [숨은 이동](./oracular/hidden-shift.md)
-* [Polynomial Interpolation](./oracular/polynomial-interpolation.md)
+* [다항식 보간](./oracular/polynomial-interpolation.md)
 * [Pattern Matching](./oracular/pattern-matching.md)
 * [Ordered Search](./oracular/ordered-search.md)
 * [Graph Properties in the Adjacency Matrix Model](./oracular/graph-properties-in-the-adjacency-matrix-model.md)

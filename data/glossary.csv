@@ -68,6 +68,7 @@ monic polynomial,최고차항의 계수가 1인 다항식
 multiplicative character,곱셈 지표
 multiplicative group,곱셈군
 multiplicity,중복도
+noise,소음
 normalize,정규화
 global maximum,전역 최댓값
 global minimum,전역 최솟값
