@@ -29,7 +29,7 @@
 * [번스타인-바지라니](./oracular/bernstein-vazirani.md)
 * [도이치-조사](./oracular/deutsch-jozsa.md)
 * [논리식 평가](./oracular/formula-evaluation.md)
-* [Hidden Shift](./oracular/hidden-shift.md)
+* [숨은 이동](./oracular/hidden-shift.md)
 * [Polynomial Interpolation](./oracular/polynomial-interpolation.md)
 * [Pattern Matching](./oracular/pattern-matching.md)
 * [Ordered Search](./oracular/ordered-search.md)
