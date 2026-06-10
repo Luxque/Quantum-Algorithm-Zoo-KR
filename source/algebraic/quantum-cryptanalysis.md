@@ -2,7 +2,7 @@
 
 > * **영어 명칭**: Quantum Cryptoanalysis
 > * **속도 향상**: 상이함
-> * **구현 코드**: ∅
+> * **구현 코드**: (없음)
 
 쇼어(Shor) 알고리즘과 이산 로그 알고리즘이 [[82](/QAZKR/appendix/references.html#82), [125](/QAZKR/appendix/references.html#125)] RSA 암호화와 타원 곡선 응용을 포함한 [[109](/QAZKR/appendix/references.html#109), [14](/QAZKR/appendix/references.html#14)] 디피(Diffie)-헬먼(Hellman) 암호 체계를 완전히 무력화시킬 수 있다는 것은 잘 알려진 사실이다.
 (수많은 '양자 후' 공개키 암호 체계는 이러한 기존의 체계를 대체하기 위해 제시되었으며, 양자 공격에도 취약하지 않을 것으로 알려져 있다.)

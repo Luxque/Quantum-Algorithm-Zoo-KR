@@ -2,7 +2,7 @@
 
 > * **영어 명칭**: Matrix Elements and Multiplicity Coefficients of Group Representations
 > * **속도 향상**: 초다항적
-> * **구현 코드**: ∅
+> * **구현 코드**: (없음)
 
 유한군의 모든 표현과 콤팩트 선형군은 적절한 기저가 주어져 있을 때 유니터리행렬로 쓸 수 있다.
 군 상에서 양자 푸리에(Fourier) 변환을 통해 정칙표현의 켤레를 구하면 그 군의 기약표현 직합이 나온다.
