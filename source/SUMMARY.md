@@ -32,7 +32,7 @@
 * [숨은 이동](./oracular/hidden-shift.md)
 * [다항식 보간](./oracular/polynomial-interpolation.md)
 * [패턴 매칭](./oracular/pattern-matching.md)
-* [Ordered Search](./oracular/ordered-search.md)
+* [정렬 탐색](./oracular/ordered-search.md)
 * [Graph Properties in the Adjacency Matrix Model](./oracular/graph-properties-in-the-adjacency-matrix-model.md)
 * [Graph Properties in the Adjacency List Model](./oracular/graph-properties-in-the-adjacency-list-model.md)
 * [Welded Tree](./oracular/welded-tree.md)
