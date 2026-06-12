@@ -42,6 +42,7 @@ fanout,팬아웃
 finite field,유한체
 finite ring,유한환
 fixed,고정된
+forest,숲
 formalism,형식론
 fractional idea,분수 아이디얼
 general number field sieve,수체 체
@@ -119,7 +120,7 @@ set,집합
 shift,이동
 Shor's algorithm,쇼어 알고리즘
 simplex code,단체 코드
-spanning tree,생성나무
+spanning tree,생성
 speedup,속도 향상
 string,문자열
 subgraph,부분그래프
@@ -136,7 +137,7 @@ unit,단위
 unit group,가역원
 unitary,유니터리
 unitary matrix,유니터리행렬
-weight,가중값
-weighted graph,가중 그래프
+weight,가중치
+weighted graph,가중치 그래프
 vertex,꼭짓점
 vertex cover,꼭짓점 덮개

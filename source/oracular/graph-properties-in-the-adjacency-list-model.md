@@ -1,1 +1,21 @@
-# Graph Properties in the Adjacency List Model
+# 인접 리스트 모델 상에서의 그래프 성질
+
+> * **영어 명칭**: Graph Properties in the Adjacency List Model
+> * **속도 향상**: 다항적
+> * **구현 코드**: (없음)
+
+꼭짓점이 $N$개, 모서리가 $M$개, 차수가 $d$인 그래프를 $G$라고 하자.
+꼭짓점의 레이블과 $j \in \{1, 2, \cdots, d\}$를 입력하면 꼭짓점의 $j$번째 이웃 또는 꼭짓점의 차수가 $d$보다 낮은 경우 `null`을 출력하는 오라클이 주어져 있다고 하자.
+$G$가 이분그래프이거나 (이분성을 띠게 만들려면 모서리의 상수 비율만큼을 제거해야 할 정도로) 이분그래프와 동떨어졌다고 가정하자.
+그렇다면, [[114](/QAZKR/appendix/references.html#114)]에서 보였다시피, 이분성을 판정하는 양자 복잡도는 $\tilde{O}(N^{1/3})$.
+또한 [[114](/QAZKR/appendix/references.html#114)]에서 익스팬더 그래프와 익스팬더 그래프와 동떨어진 그래프를 구분하는 고전 알고리즘의 복잡도는 $\tilde{\Theta}(\sqrt{N})$일 때 양자 알고리즘의 복잡도는 $\tilde{O}(N^{1/3})$이자 $\tilde{\Omega}(N^{1/4})$이다.
+중요한 양자 알고리즘의 도구는 암바이니스(Ambainis) 알고리즘으로 원소의 상이함을 판별할 때 사용한다.
+[[34](/QAZKR/appendix/references.html#34)]에서는:
+
+* 최소한의 생성트리 찾기는 양자 질의 복잡도가 $\Theta(\sqrt{NM})$
+* 무향그래프의 연결성 판정하기는 양자 질의 복잡도가 $\Theta(N)$
+* 유향그래프의 연결성 판정하기는 양자 질의 복잡도가 $\tilde{\Theta}(\sqrt{NM})$
+* 가중치 그래프 상에서 주어진 시작점으로부터 다른 모든 꼭짓점까지의 최소 가중치 경로 계산하기는 양자 질의 복잡도가 $\tilde{\Theta}(\sqrt{NM})$
+
+임을 보였다.
+$\tilde{O}(N\sqrt{d})$ 시간과 로그로 늘어나는 큐비트로 st-연결성, 이분성, 그래프가 숲인지를 판정하는 알고리즘은 [[317](/QAZKR/appendix/references.html#317)]에 제시되어 있다.

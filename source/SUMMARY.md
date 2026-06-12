@@ -34,7 +34,7 @@
 * [패턴 매칭](./oracular/pattern-matching.md)
 * [정렬 탐색](./oracular/ordered-search.md)
 * [인접 행렬 모델 상에서의 그래프 성질](./oracular/graph-properties-in-the-adjacency-matrix-model.md)
-* [Graph Properties in the Adjacency List Model](./oracular/graph-properties-in-the-adjacency-list-model.md)
+* [인접 리스트 모델 상에서의 그래프 성질](./oracular/graph-properties-in-the-adjacency-list-model.md)
 * [Welded Tree](./oracular/welded-tree.md)
 * [Collision Finding and Element Distinctness](./oracular/collision-finding-and-element-distinctness.md)
 * [Graph Collision](./oracular/graph-collision.md)
