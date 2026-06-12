@@ -6,7 +6,7 @@
 
 $G$를 $n$개의 꼭짓점으로 이루어진 그래프라고 하자.
 $\{1, 2, \cdots, n\}$에 속한 정수의 쌍을 주면 해당하는 꼭짓점들이 모서리로 이어졌는지를 알려주는 오라클이 주어져 있다.
-선행 연구 [[35](/QAZKR/appendix/references.html#35), [52](/QAZKR/appendix/references.html#52), [36](/QAZKR/appendix/references.html#36)]에 기반하여, 뒤르(Dürr) 등[[34](/QAZKR/appendix/references.html#34)]은 최소 생성나무 찾기와 유향그래프 및 무향그래프의 연결성을 판별하는 것은 $\Theta(n^{3/2})$, 최소의 가중 경로를 찾는 것은 $O(n^{3/2}\log^2 n)$의 양자 질의 복잡도를 가짐을 보였다.
+선행 연구 [[35](/QAZKR/appendix/references.html#35), [52](/QAZKR/appendix/references.html#52), [36](/QAZKR/appendix/references.html#36)]에 기반하여, 뒤르(Dürr) 등[[34](/QAZKR/appendix/references.html#34)]은 최소 생성트리 찾기와 유향그래프 및 무향그래프의 연결성을 판별하는 것은 $\Theta(n^{3/2})$, 최소의 가중 경로를 찾는 것은 $O(n^{3/2}\log^2 n)$의 양자 질의 복잡도를 가짐을 보였다.
 [[13](/QAZKR/appendix/references.html#13), [272](/QAZKR/appendix/references.html#272), [318](/QAZKR/appendix/references.html#218)]에서 발전한 [[317](/QAZKR/appendix/references.html#317)]은 이분그래프 판별하기, 순환 판별하기, 주어진 꼭짓점이 다른 꼭짓점으로부터 닿을 수 있는지를 판별하기(st-연결성)는 $\tilde{O}(n^{3/2})$로 늘어나는 질의와 양자 게이트, 로그로 늘어나는 큐비트로 풀 수 있음을 보였다.
 $\tilde{O}(n)$ 시간에 주어진 크기의 트리를 마이너(minor) 탐지하는 스팬 프로그램에 기초한 양자 알고리즘은 [[240](/QAZKR/appendix/references.html#240)]에 제시되어 있다.
 만약 어떠한 성질을 갖고 있는 모든 그래프의 모서리와 꼭짓점의 비율이 거의 $c$인 상수 $c$가 존재한다면, 그 그래프의 성질은 희박하다고 한다.
