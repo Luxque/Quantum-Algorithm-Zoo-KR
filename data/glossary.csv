@@ -1,12 +1,15 @@
 Abelian group,아벨 군
 additive group,덧셈군
+adjacency matrix,인접 행렬
 approximation,근사
 basis,기저
 bijective function,전단사함수
+bipartite graph,이분그래프
 bit flip,비트 플립
 class group,유군
 classical,고전
 classical computer,고전 컴퓨터
+clique,클리크
 code,부호
 compact,콤팩트
 conjugate,켤레
@@ -14,6 +17,7 @@ convolutional code,합성곱 부호
 coset,잉여류
 character,지표
 cryptosystem,암호 체계
+cycle,순환
 decoding,복호화
 Dedekind domain,데데킨트 정역
 definite integral,정적분
@@ -21,9 +25,11 @@ degree,차수
 difference set,차집합
 dihedral group,이면체군
 direct sum,직합
+directed graph,유향그래프
 domain,정역
 DSA digital signature scheme,DSA 전자 서명 방식
 ECDSA digital signature scheme,ECDSA 전자 서명 방식
+edge,모서리
 element,원소
 encoding,부호화
 error correction,오류 정정
@@ -41,10 +47,15 @@ fractional idea,분수 아이디얼
 general number field sieve,수체 체
 generate,생성하다
 generator,생성자
+global maximum,전역 최댓값
+global minimum,전역 최솟값
+graph,그래프
+graph minor,그래프 마이너
 group,군
 Grover's algorithm,그로버 알고리즘
 Hadamard test,아다마르 테스트
 heuristic,휴리스틱
+hypergraph,하이퍼그래프
 ideal,아이디얼
 indefinite integral,부정적분
 infinite field,무한체
@@ -71,15 +82,15 @@ multiplicative group,곱셈군
 multiplicity,중복도
 noise,소음
 normalize,정규화
-global maximum,전역 최댓값
-global minimum,전역 최솟값
 occurrence,빈도
 outer product,외적
 oracle,오라클
 pair,순서쌍
 partition function,분배 함수
+path,경로
 Pell's equation,펠 방정식
 permutation,순열
+planarity,평면성
 polynomial,다항식
 post-quantum cryptography,양자 후 암호
 Potts model,포츠 모형
@@ -108,8 +119,10 @@ set,집합
 shift,이동
 Shor's algorithm,쇼어 알고리즘
 simplex code,단체 코드
+spanning tree,생성나무
 speedup,속도 향상
 string,문자열
+subgraph,부분그래프
 subexponential,준지수
 subset-sum,부분집합 합
 superpolynomial,초다항식
@@ -117,9 +130,13 @@ surjective,전사함수
 symmetric group,대칭군
 tensor product,텐서곱
 topology,위상
+undirected graph,무향그래프
 uniform,균등
 unit,단위
 unit group,가역원
 unitary,유니터리
 unitary matrix,유니터리행렬
 weight,가중값
+weighted graph,가중 그래프
+vertex,꼭짓점
+vertex cover,꼭짓점 덮개
