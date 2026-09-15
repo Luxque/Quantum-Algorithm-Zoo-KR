@@ -1,14 +1,17 @@
 [book]
 title = "양자 알고리즘 모음집 (한국어)"
+description = "Quantum Algorithm Zoo 한국어 번역"
 authors = ["Stephen P. Jordan", "Daniel Park"]
 language = "kor"
-multilingual = true
 src = "source"
 
 [output.html]
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
-additional-css = ["custom.css"]
+additional-css = ["./misc/custom.css"]
+git-repository-url = "https://github.com/Luxque/Quantum-Algorithm-Zoo-KR"
+git-repository-icon = "fab-github"
+site-url = "https://luxque.github.io/QAZKR"
 
 [preprocessor.katex]
 after = ["links"]
