@@ -15,5 +15,6 @@ html {
 }
 
 main {
+    text-align: justify;
     font-size: 1.40em;
 }
