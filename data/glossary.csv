@@ -1,4 +1,4 @@
-Abelian group,아벨 군
+Abelian group,아벨군
 additive group,덧셈군
 adjacency matrix,인접 행렬
 approximation,근사
@@ -6,6 +6,7 @@ basis,기저
 bijective function,전단사함수
 bipartite graph,이분그래프
 bit flip,비트 플립
+character,지표
 class group,유군
 classical,고전
 classical computer,고전 컴퓨터
@@ -15,7 +16,6 @@ compact,콤팩트
 conjugate,켤레
 convolutional code,합성곱 부호
 coset,잉여류
-character,지표
 cryptosystem,암호 체계
 cycle,순환
 decoding,복호화
@@ -34,7 +34,7 @@ element,원소
 encoding,부호화
 error correction,오류 정정
 error detection,오류 검출
-estimatation,추정
+estimation,추정
 exponential congruence,지수 합동식
 factor,인자
 fanin,팬인
@@ -84,8 +84,8 @@ multiplicity,중복도
 noise,소음
 normalize,정규화
 occurrence,빈도
-outer product,외적
 oracle,오라클
+outer product,외적
 pair,순서쌍
 partition function,분배 함수
 path,경로
@@ -99,12 +99,12 @@ primitive,초기
 principal ideal,주아이디얼
 prior distribution,사전분포
 quantum,양자
+quantum (random) walk,양자 확률보행
 quantum collision finding,양자 중복 감지
 quantum computer,양자 컴퓨터
 quantum Fourier transform,양자 푸리에 변환
-quanrum (random) walk,양자 확률보행
-query,질의
 qubit,큐비트
+query,질의
 reduction,환산
 regular representation,정규표현
 representation,표현
@@ -123,8 +123,8 @@ simplex code,단체 코드
 spanning tree,생성
 speedup,속도 향상
 string,문자열
-subgraph,부분그래프
 subexponential,준지수
+subgraph,부분그래프
 subset-sum,부분집합 합
 superpolynomial,초다항식
 surjective,전사함수
@@ -137,7 +137,7 @@ unit,단위
 unit group,가역원
 unitary,유니터리
 unitary matrix,유니터리행렬
-weight,가중치
-weighted graph,가중치 그래프
 vertex,꼭짓점
 vertex cover,꼭짓점 덮개
+weight,가중치
+weighted graph,가중치 그래프

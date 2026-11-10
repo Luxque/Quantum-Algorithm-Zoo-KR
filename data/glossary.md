@@ -1,0 +1,145 @@
+| 영어 | 한국어 |
+|:----|:------|
+| Abelian group | 아벨군 |
+| additive group | 덧셈군 |
+| adjacency matrix | 인접 행렬 |
+| approximation | 근사 |
+| basis | 기저 |
+| bijective function | 전단사함수 |
+| bipartite graph | 이분그래프 |
+| bit flip | 비트 플립 |
+| character | 지표 |
+| class group | 유군 |
+| classical | 고전 |
+| classical computer | 고전 컴퓨터 |
+| clique | 클리크 |
+| code | 부호 |
+| compact | 콤팩트 |
+| conjugate | 켤레 |
+| convolutional code | 합성곱 부호 |
+| coset | 잉여류 |
+| cryptosystem | 암호 체계 |
+| cycle | 순환 |
+| decoding | 복호화 |
+| Dedekind domain | 데데킨트 정역 |
+| definite integral | 정적분 |
+| degree | 차수 |
+| difference set | 차집합 |
+| dihedral group | 이면체군 |
+| direct sum | 직합 |
+| directed graph | 유향그래프 |
+| domain | 정역 |
+| DSA digital signature scheme | DSA 전자 서명 방식 |
+| ECDSA digital signature scheme | ECDSA 전자 서명 방식 |
+| edge | 모서리 |
+| element | 원소 |
+| encoding | 부호화 |
+| error correction | 오류 정정 |
+| error detection | 오류 검출 |
+| estimation | 추정 |
+| exponential congruence | 지수 합동식 |
+| factor | 인자 |
+| fanin | 팬인 |
+| fanout | 팬아웃 |
+| finite field | 유한체 |
+| finite ring | 유한환 |
+| fixed | 고정된 |
+| forest | 숲 |
+| formalism | 형식론 |
+| fractional idea | 분수 아이디얼 |
+| general number field sieve | 수체 체 |
+| generate | 생성하다 |
+| generator | 생성자 |
+| global maximum | 전역 최댓값 |
+| global minimum | 전역 최솟값 |
+| graph | 그래프 |
+| graph minor | 그래프 마이너 |
+| group | 군 |
+| Grover's algorithm | 그로버 알고리즘 |
+| Hadamard test | 아다마르 테스트 |
+| heuristic | 휴리스틱 |
+| hypergraph | 하이퍼그래프 |
+| ideal | 아이디얼 |
+| indefinite integral | 부정적분 |
+| infinite field | 무한체 |
+| injective function | 단사함수 |
+| inner product | 내적 |
+| invertible | 가역 |
+| invertible element | 가역원 |
+| irreducible | 기약 |
+| irreducible representation | 기약표현 |
+| isogeny | 동류사상 |
+| isomorphism | 동형사상 |
+| Kronecker coefficient | 크로네커 계수 |
+| lattice problem | 격자문제 |
+| least significant bit | 최하위 비트 |
+| left coset | 좌잉여류 |
+| Legendre symbol | 르장드르 기호 |
+| maximum likelihood method | 최대가능도법 |
+| mean | 평균 |
+| median | 중앙값 |
+| membership problem | 원소 판정 문제 |
+| monic polynomial | 최고차항의 계수가 1인 다항식 |
+| multiplicative character | 곱셈 지표 |
+| multiplicative group | 곱셈군 |
+| multiplicity | 중복도 |
+| noise | 소음 |
+| normalize | 정규화 |
+| occurrence | 빈도 |
+| oracle | 오라클 |
+| outer product | 외적 |
+| pair | 순서쌍 |
+| partition function | 분배 함수 |
+| path | 경로 |
+| Pell's equation | 펠 방정식 |
+| permutation | 순열 |
+| planarity | 평면성 |
+| polynomial | 다항식 |
+| post-quantum cryptography | 양자 후 암호 |
+| Potts model | 포츠 모형 |
+| primitive | 초기 |
+| principal ideal | 주아이디얼 |
+| prior distribution | 사전분포 |
+| quantum | 양자 |
+| quantum (random) walk | 양자 확률보행 |
+| quantum collision finding | 양자 중복 감지 |
+| quantum computer | 양자 컴퓨터 |
+| quantum Fourier transform | 양자 푸리에 변환 |
+| qubit | 큐비트 |
+| query | 질의 |
+| reduction | 환산 |
+| regular representation | 정규표현 |
+| representation | 표현 |
+| right coset | 우잉여류 |
+| ring | 환 |
+| root | 근 |
+| RSA public-key encryption | RSA 공개키 암호화 |
+| sampling | 추출 |
+| searching | 탐색 |
+| semigroup | 반군 |
+| semiprime | 반소수 |
+| set | 집합 |
+| shift | 이동 |
+| Shor's algorithm | 쇼어 알고리즘 |
+| simplex code | 단체 코드 |
+| spanning tree | 생성 |
+| speedup | 속도 향상 |
+| string | 문자열 |
+| subexponential | 준지수 |
+| subgraph | 부분그래프 |
+| subset-sum | 부분집합 합 |
+| superpolynomial | 초다항식 |
+| surjective | 전사함수 |
+| symmetric group | 대칭군 |
+| tensor product | 텐서곱 |
+| topology | 위상 |
+| undirected graph | 무향그래프 |
+| uniform | 균등 |
+| unit | 단위 |
+| unit group | 가역원 |
+| unitary | 유니터리 |
+| unitary matrix | 유니터리행렬 |
+| vertex | 꼭짓점 |
+| vertex cover | 꼭짓점 덮개 |
+| weight | 가중치 |
+| weighted graph | 가중치 그래프 |

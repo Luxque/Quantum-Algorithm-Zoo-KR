@@ -1,55 +1,80 @@
-from tabulate import tabulate
+"""Module for parsing CSV glossaries and generating sorted Markdown table."""
+
 import sys
 
 
-def read_csv(filename: str) -> tuple[list[str], list[int], list[str], list[int]]:
+def parse_csv(filename: str) -> dict[str, str]:
+    """Read the given CSV file and parse it into a dictionary of terms.
+
+    Args:
+        filename: The path to the CSV files to read.
+    
+    Returns:
+        A dictionary mapping English terms to their Korean translations.
+    """
+
     lines = None
-    with open(filename, 'r') as file:
+    with open(filename, 'r', encoding='utf-8') as file:
         lines = file.read().split('\n')[:-1]
 
-    words_eng, width_eng = [], []
-    words_kor, width_kor = [], []
-
+    glossary = {}
     for line in lines:
-        word_pair = line.split(',')
-        
-        words_eng.append(word_pair[0])
-        width_eng.append(len(word_pair[0]))
-        words_kor.append(word_pair[1])
-        width_kor.append(2 * len(word_pair[1]) - word_pair[1].count(' '))
+        english, korean = line.split(',')
+        glossary[english] = korean
 
-    return (words_eng, width_eng, words_kor, width_kor)
+    return glossary
 
-def write_table(glossary: tuple[list[str], list[int], list[str], list[int]]) -> None:
-    header_width_eng = 2 * len("영어")
-    header_width_kor = 2 * len("한국어")
 
-    max_width_eng = max(header_width_eng, max(glossary[1]))
-    max_width_kor = max(header_width_kor, max(glossary[3]))
+def sort_keys(glossary: dict[str, str]) -> list[str]:
+    """Sort glossary keys case-insensitively.
 
-    with open('./source/appendix/glossary.md', 'w') as file:
-        file.write("# 용어\n\n")
-        file.write(f"| 영어 {' '*(max_width_eng-header_width_eng-1)} | 한국어 {' '*(max_width_eng-header_width_kor-1)} |\n")
-        file.write(f"|:{'-'*max_width_eng}:|:{'-'*max_width_kor}:|\n")
+    Args:
+        glossary: The glossary dictionary containing English-Korean paris.
 
-        for i in range(len(glossary[0])):
-            this_word_eng, this_width_eng = glossary[0][i], glossary[1][i]
-            this_word_kor, this_width_kor = glossary[2][i], glossary[3][i]
+    Returns:
+        A sorted list of English keys using case-insensitive comparison.
+    """
 
-            file.write(f"| {this_word_eng}{' '*(max_width_eng-this_width_eng)} | {this_word_kor}{' '*(max_width_kor-this_width_kor)} |\n")
+    return sorted(list(glossary.keys()), key=str.casefold)
+
+
+def write_output(filename: str, glossary: dict[str, str], keys: list[str]) -> None:
+    """Write the sorted glossary back to the CSV and generate a Markdown table.
+
+    Args:
+        filename: The path to the original CSV file.
+        glossary: The glossary dictionary containing English-Korean paris.
+        keys: A sorted list of keys to order the output.
+    """
+
+    with open(filename, 'w', encoding='utf-8') as csv_file, \
+            open(filename[:-3] + "md", 'w', encoding='utf-8') as md_file:
+        md_file.write("| 영어 | 한국어 |\n")
+        md_file.write("|:----|:------|\n")
+
+        for key in keys:
+            csv_file.write(f"{key},{glossary[key]}\n")
+            md_file.write(f"| {key} | {glossary[key]} |\n")
 
     return
 
 
 def main() -> None:
+    """Execute the main program."""
+
     if len(sys.argv) != 2:
         raise RuntimeError("There must be one argument for the file to read.")
     
     filename = sys.argv[1]
-    glossary = read_csv(filename)
-    table = write_table(glossary)
+    if not filename.endswith('.csv'):
+        raise RuntimeError("The input must be a CSV file.")
+
+    glossary = parse_csv(filename)
+    keys = sort_keys(glossary)
+    write_output(filename, glossary, keys)
 
     return
+
 
 if __name__ == '__main__':
     main()
