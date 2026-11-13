@@ -30,9 +30,11 @@ def write_lines(filename: str, lines: list[str]) -> None:
 
     with open(filename, 'w', encoding='utf-8') as file:
         file.write("# 참고문헌\n\n")
+
         for line in lines:
             if line.isdigit():
                 file.write("#### ")
+                
             file.write(f"{line}\n")
 
     return
